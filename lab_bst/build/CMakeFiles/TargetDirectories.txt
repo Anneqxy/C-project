@@ -1,0 +1,12 @@
+/workspaces/cs225/lab_bst/build/CMakeFiles/test.dir
+/workspaces/cs225/lab_bst/build/CMakeFiles/bst.dir
+/workspaces/cs225/lab_bst/build/CMakeFiles/edit_cache.dir
+/workspaces/cs225/lab_bst/build/CMakeFiles/rebuild_cache.dir
+/workspaces/cs225/lab_bst/build/lib/CMakeFiles/lodepng.dir
+/workspaces/cs225/lab_bst/build/lib/CMakeFiles/binarytree.dir
+/workspaces/cs225/lab_bst/build/lib/CMakeFiles/cs225.dir
+/workspaces/cs225/lab_bst/build/lib/CMakeFiles/edit_cache.dir
+/workspaces/cs225/lab_bst/build/lib/CMakeFiles/rebuild_cache.dir
+/workspaces/cs225/lab_bst/build/src/CMakeFiles/src.dir
+/workspaces/cs225/lab_bst/build/src/CMakeFiles/edit_cache.dir
+/workspaces/cs225/lab_bst/build/src/CMakeFiles/rebuild_cache.dir
